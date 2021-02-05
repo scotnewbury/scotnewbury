@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on new WordPress templates
+- 🔭 I’m currently working on a new portfolio site
 - 🌱 I’m currently learning React
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm the father of twins
