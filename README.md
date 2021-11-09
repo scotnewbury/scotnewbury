@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on WordPress and LearnDash
+- 🔭 I’m currently working on a Multisite WordPress setup
 - 📫 How to reach me: [Twitter](https://twitter.com/scotnewbury) or [Linkedin](https://linkedin.com/in/scotnewbury)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm the father of twins
