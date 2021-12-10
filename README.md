@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Multisite WordPress setup
-- 📫 How to reach me: [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/scotnewbury) or [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/scotnewbury/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm the father of twins
+- 📫 How to reach me: 
+
+[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/scotnewbury)  [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/scotnewbury/)
 
 <!--
 **scotnewbury/scotnewbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
