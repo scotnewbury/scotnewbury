@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Multisite WordPress setup
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me: [Twitter](https://twitter.com/scotnewbury) or [Linkedin](https://linkedin.com/in/scotnewbury)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm the father of twins
