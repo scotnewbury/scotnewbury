@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on a Multisite WordPress setup
-- 🌱 I’m currently learning Python! (and a bit of everything else)
+- 🔭 I’m currently working on a WordPress Multisite and customizations for a LearnDash Site
+- 🌱 I’m currently learning Python (and a bit of everything else)
 - 📫 How to reach me: [Twitter](https://twitter.com/scotnewbury) or [Linkedin](https://linkedin.com/in/scotnewbury)
 - 😄 Pronouns: he/him
 
