@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/scotnewbury) or [Linkedin](https://linkedin.com/in/scotnewbury)
 - 😄 Pronouns: he/him
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=scotnewbury)](https://github.com/scotnewbury/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=scotnewbury&theme=dark&show_icons=true)](https://github.com/scotnewbury/)
 
 <!--
 **scotnewbury/scotnewbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
