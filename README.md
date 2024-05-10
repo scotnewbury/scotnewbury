@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working with WordPress Multisite
+- 🔭 I’m currently working with WordPress
 - 🌱 I’m currently learning Python (and a bit of everything else)
 - 📫 How to reach me: [Twitter](https://twitter.com/scotnewbury) or [Linkedin](https://linkedin.com/in/scotnewbury)
 - 😄 Pronouns: he/him
