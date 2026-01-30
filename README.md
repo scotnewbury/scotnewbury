@@ -1,9 +1,13 @@
-### Hello there 👋
+### Hello there 👋 I'm Scot
 
-- 🔭 I’m currently working with WordPress
-- 🌱 I’m currently learning Python (and a bit of everything else)
-- 📫 How to reach me: [Twitter](https://twitter.com/scotnewbury) or [Linkedin](https://linkedin.com/in/scotnewbury)
-- 😄 Pronouns: he/him
+**Systems Architect & Developer** Methodical, process-driven leader specializing in backend efficiency and automation.
+
+- 🔭 **Currently:** Engineering solutions in the WordPress/PHP ecosystem.
+- 🌱 **The Pivot:** Deepening my expertise in Python for backend architecture and system automation
+- ⚙️ **Background:** Computer Engineering Technology (CET) with a focus on logical "plumbing" and system optimization.
+- 💬 **Let's Talk:** System migrations, process automation, or technical instruction.
+- 📫 **Reach me:** [Linkedin](https://linkedin.com/in/scotnewbury)
+
 
 <!--
 [![Top Langs](https://github-readme-stats-blush-eta.vercel.app/api/top-langs/?username=scotnewbury&theme=dark&show_icons=true&layout=compact)](https://github.com/scotnewbury/)
