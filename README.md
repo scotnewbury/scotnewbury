@@ -2,7 +2,7 @@
 
 🔭 **Currently:** Engineering web solutions and optimizing legacy WordPress/PHP environments.
 🚀 **The Pivot:** Leveraging my foundations in **JavaScript (ES6+)** and **Node.js** to build modern, robust backend systems.
-💬 **Let's Talk:** System migrations, API development, technical instruction, or process automation[cite: 9, 31].
+💬 **Let's Talk:** System migrations, API development, technical instruction, or process automation.
 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/scotnewbury)
 
 <!--
