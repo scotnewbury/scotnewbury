@@ -3,8 +3,8 @@
 **Senior Web Developer & Systems Specialist**
 Methodical, process-driven professional with 15+ years of experience in technical execution and project management.
 
-- 🔭 **Currently:** Managing and optimizing complex WordPress environments and business systems.
-- 🚀 **The Pivot:** Strengthening my expertise in **JavaScript (ES6+)** and **Node.js** to build more robust, logic-heavy backend solutions.
+- 🔭 **Current:** Engineering stable, custom backend logic and managing multi-tenant database architectures.
+- 🚀 **Growtth Path:** Modernizing my PHP 8.x expertise and exploring specialized backend utilities to solve business-critical performance issues.
 - ⚙️ **Background:** Computer Engineering Technology (CET) background with a focus on logical flow and system efficiency.
 - 💬 **Focus:** System modernization, API integrations, and technical documentation.
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/scotnewbury)
@@ -14,10 +14,10 @@ Methodical, process-driven professional with 15+ years of experience in technica
 ### Tech Stack
 
 **Core Foundations**
-`JavaScript (ES6+)` `PHP 8.x` `MySQL` `Systems Administration` `Linux/Shell`
+`PHP 8.x` `MySQL` `Systems Administration` `Linux/Shell`
 
 **Active Growth**
-`Node.js` `TypeScript` `Express` `Git/GitHub`
+`Laravel` `Git/GitHub`
 
 **Strategic Skills**
 `Instructional Design` `Technical Training` `Project Management`
