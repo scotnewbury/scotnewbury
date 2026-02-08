@@ -4,7 +4,7 @@
 Methodical, process-driven professional with 15+ years of experience in technical execution and project management.
 
 - 🔭 **Current:** Engineering stable, custom backend logic and managing multi-tenant database architectures.
-- 🚀 **Growtth Path:** Modernizing my PHP 8.x expertise and exploring specialized backend utilities to solve business-critical performance issues.
+- 🚀 **Growtth Path:** Transitioning my primary focus to Python. I am currently mastering core language fundamentals, with a strict emphasis on clean code, PEP 8 standards, and building a foundation for robust backend logic.
 - ⚙️ **Background:** Computer Engineering Technology (CET) background with a focus on logical flow and system efficiency.
 - 💬 **Focus:** System modernization, API integrations, and technical documentation.
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/scotnewbury)
@@ -14,10 +14,10 @@ Methodical, process-driven professional with 15+ years of experience in technica
 ### Tech Stack
 
 **Core Foundations**
-`PHP 8.x` `MySQL` `Systems Administration` `Linux/Shell`
+`Python 3.11+` `MySQL` `Systems Administration` `Linux/Shell`
 
 **Active Growth**
-`Laravel` `Git/GitHub`
+`FastAPI / Flask` `Git/GitHub`
 
 **Strategic Skills**
 `Instructional Design` `Technical Training` `Project Management`
