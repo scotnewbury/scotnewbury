@@ -1,7 +1,6 @@
 # Hello there 👋 I'm Scot
 
-**Senior Web Developer & Systems Specialist**
-Methodical, process-driven professional with 15+ years of experience in technical execution and project management.
+**Senior Web Developer & Systems Specialist:** Methodical, process-driven professional with 15+ years of experience in technical execution and project management.
 
 - 🔄 **The Shift:** Returning to my roots in **PHP**. Since starting my professional dev journey with PHP/WordPress in 2019, I’m now focusing on modern PHP 8.x, clean backend architecture, and moving away from CMS-dependency.
 - 🔭 **Current:** Engineering custom backend logic and managing multi-tenant database architectures.
