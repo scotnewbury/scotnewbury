@@ -3,9 +3,8 @@
 **Senior Web Developer & Systems Specialist**
 Methodical, process-driven professional with 15+ years of experience in technical execution and project management.
 
-- 🔭 **Current:** Engineering stable, custom backend logic and managing multi-tenant database architectures.
-- 🚀 **Growtth Path:** Transitioning my primary focus to Python. I am currently mastering core language fundamentals, with a strict emphasis on clean code, PEP 8 standards, and building a foundation for robust backend logic.
-- ⚙️ **Background:** Computer Engineering Technology (CET) background with a focus on logical flow and system efficiency.
+- 🔄 **The Shift:** Returning to my roots in **PHP**. Since starting my professional dev journey with PHP/WordPress in 2019, I’m now focusing on modern PHP 8.x, clean backend architecture, and moving away from CMS-dependency.
+- 🔭 **Current:** Engineering custom backend logic and managing multi-tenant database architectures.
 - 💬 **Focus:** System modernization, API integrations, and technical documentation.
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/scotnewbury)
 
@@ -13,14 +12,11 @@ Methodical, process-driven professional with 15+ years of experience in technica
 
 ### Tech Stack
 
-**Core Foundations**
-`Python 3.11+` `MySQL` `Systems Administration` `Linux/Shell`
+**Core Competencies** `PHP` `MySQL` `Linux/Shell` `Systems Administration` `Git`
 
-**Active Growth**
-`FastAPI / Flask` `Git/GitHub`
+**Currently Leveling Up** `Modern PHP (8.x)` `Laravel` `Composer` `Unit Testing`
 
-**Strategic Skills**
-`Instructional Design` `Technical Training` `Project Management`
+**Strategic Skills** `Project Management` `Instructional Design` `Technical Training`
 
 <!--
 **scotnewbury/scotnewbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
