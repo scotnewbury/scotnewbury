@@ -13,7 +13,7 @@
 
 **Core Competencies** `PHP` `MySQL` `Linux/Shell` `Systems Administration` `Git`
 
-**Currently Leveling Up** `Modern PHP (8.x)` `Laravel` `Composer` `Unit Testing`
+**Currently Leveling Up** `Modern PHP (8.x)` `Composer` `Unit Testing`
 
 **Strategic Skills** `Project Management` `Instructional Design` `Technical Training`
 
